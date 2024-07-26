@@ -13,3 +13,6 @@ Community Insights: Benefit from insights shared by fellow students and employee
 Supportive Environment: Connect with a supportive community of peers facing similar challenges, fostering a sense of belonging and shared experiences.
 
 Whether you're moving to a new city for education or work, PGlife ensures that finding a comfortable and safe PG accommodation is simple and stress-free. Join us today and discover your ideal living space away from home!
+
+
+Due to the existence of the database, it cannot be hosted on GitHub I will link the video . watch in Linkedln
